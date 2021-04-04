@@ -2,6 +2,7 @@
     require 'config.php';
 ?>
 <a href="adicionar.php">Adicionar Novo Usuário</a>
+<h1>Esse é o novo branch</h1>
 <table border="0" width="100%">
     <tr>
         <th>Nome</th>
