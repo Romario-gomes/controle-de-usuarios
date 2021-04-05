@@ -10,5 +10,5 @@
 
 ### ✅ Demonstração da aplicação
 <p align="center">
-    <img src="/assets/images/index-2.0.jpeg">
+    <img src="readme/index-2.0.jpeg">
 </p>
