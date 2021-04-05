@@ -9,4 +9,6 @@
 - [x] Navegar entre as páginas.
 
 ### ✅ Demonstração da aplicação
-
+<p align="center">
+    <img src="/assets/images/index-2.0.jpeg">
+</p>
