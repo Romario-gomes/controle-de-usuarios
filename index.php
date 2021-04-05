@@ -11,7 +11,7 @@
         <title>Controle de usuários</title>
     </head>
     <body>
-        <div class="container-fluid">
+        <div class="container">
             <div class="alert alert-info alert-dismissible fade show" role="alert">
                Sistema de controle de usuários utilizando PHP e Bootstrap
                 <button class="close" data-dismiss="alert" >
@@ -20,7 +20,7 @@
            </div>
 
             <div class="table-responsive">
-                <table border="0" width="100%" class="table table-bordered table-hover">
+                <table border="0" width="100%" class="table table-bordered table-hover col-sm">
                     <thead class="thead-light">
                         <tr>
                             <th>Nome</th>
