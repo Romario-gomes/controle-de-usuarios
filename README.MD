@@ -9,6 +9,8 @@
 - [x] Navegar entre as páginas.
 
 ### ✅ Demonstração da aplicação
+<p align="center"> Página inicial do projeto </p>
+
 <p align="center">
     <img src="readme/index-2.0.jpeg">
 </p>
